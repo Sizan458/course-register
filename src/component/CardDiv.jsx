@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import { useState } from "react";
 import {FaDollarSign,FaBookOpen} from 'react-icons/fa';
+import Cart from "./cart";
 
 
 const CardDiv = () => {
@@ -15,7 +16,7 @@ const CardDiv = () => {
         <div >
             <h1 className=" text-3xl text-center font-bold text-black mt-3">Course Registration</h1>
             
-            <div className="flex mt-5  w-[90%] mx-auto">
+            <div className="flex mt-5  w-[90%] mx-auto gap-4">
                <div className="grid grid-cols-3   gap-2 w-[80%]  text-black">
                {
                 data.map(data=>(
@@ -43,8 +44,8 @@ const CardDiv = () => {
                 )
                }
                </div>
-               <div>
-                <h3>Cart</h3>
+               <div >
+                <Cart></Cart>
                </div>
             </div>
 
