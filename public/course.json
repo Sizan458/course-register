@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to C Programming",
+    "description": "C is a powerful and versatile programming language that was created by Dennis Ritchie in 1972. It is used for developing system software, applications, and embedded systems. C is fast, efficient, and portable across different platforms. C is also the foundation of many other languages such as C++, Java, Python, etc.",
+    "image": "https://i.ibb.co/DLrsXmH/Rectangle-2-2.png",
+    "price": 15000,
+    "credit": 1
+  },
+  {
+    "id": 2,
+    "title": "Introduction to Algorithms",
+    "description": "An algorithm is a way of solving problems or performing tasks by following a series of steps or rules. Algorithms are used in many areas of science, technology, and everyday life. For example, an algorithm can help you find the best route to your destination, sort a list of names in alphabetical order, or encrypt a message. Algorithms can be expressed in different forms, such as words, diagrams, or code.",
+    "image": "https://i.ibb.co/d5YYD1z/Rectangle-2-3.png",
+    "price": 25000,
+    "credit": 2
+  },
+  {
+    "id": 3,
+    "title": "Introduction to C++ for DSA",
+    "description": "C++ is a programming language that was created by Bjarne Stroustrup in the 1970s as an extension of the C language. It is a general-purpose, multi-paradigm, and high-performance language that can be used to develop various types of software, such as games, desktop applications, operating systems, browsers, and more. C++ supports object-oriented, procedural, functional, and generic programming styles, as well as low-level memory manipulation.",
+    "image": "https://i.ibb.co/tssDWXC/Rectangle-2-4.png",
+    "price": 10000,
+    "credit": 10
+  },
+  {
+    "id": 4,
+    "title": "Basic Data Structures",
+    "description": "Data structures are an important topic in computer science. They are used to store and organize data in a way that allows efficient access and manipulation. Data structures can be classified into different types, such as linear, non-linear, static, dynamic, etc. Some common examples of data structures are arrays, linked lists, stacks, queues, trees, graphs, hash tables, etc. Each data structure has its own advantages and disadvantages, and is suitable for different kinds of applications.",
+    "image": "https://i.ibb.co/pjJscBJ/Rectangle-3.png",
+    "price": 35000,
+    "credit": 5
+  },
+  {
+    "id": 5,
+    "title": "Introduction to OOP Python",
+    "description": "Object-oriented programming (OOP) is a paradigm that organizes data and behavior into reusable units called classes. Classes define the attributes and methods of the objects that belong to them. Objects are instances of classes that can interact with each other. Python is a multi-paradigm language that supports OOP as well as other paradigms.",
+    "image": "https://i.ibb.co/Zh3J958/Rectangle-2.png",
+    "price": 19000,
+    "credit": 5
+  },
+  {
+    "id": 6,
+    "title": "Software Engineering",
+    "description": "The application of engineering principles and practices to the creation and maintenance of software systems that solve problems and satisfy the needs of users and stakeholders.The process of designing, developing, testing, and deploying software systems that are reliable, efficient, secure, and user-friendly.The profession of applying knowledge, skills, and ethics to the practice of software engineering in various domains and contexts.",
+    "image": "https://i.ibb.co/WHGK16f/Rectangle-2-5.png",
+    "price": 23000,
+    "credit": 2
+  },
+  {
+    "id": 7,
+    "title": "AWS, Cloud Computing",
+    "description": "Amazon Web Services (AWS) is one of the largest and most widely used cloud computing platforms in the world. It offers a wide range of cloud services and solutions that enable individuals and organizations to build and manage applications, store data, and run workloads on a scalable and flexible cloud infrastructure.",
+    "image": "https://i.ibb.co/9hSYfjx/Rectangle-3-1.png",
+    "price": 35000,
+    "credit": 5
+  },
+  {
+    "id": 8,
+    "title": "Database (MySQL)",
+    "description": "A database is a collection of data that is organized so that it can be easily accessed, managed, and updated. A database can store various types of data, such as text, numbers, images, audio, video, etc. A database can also have different structures, such as relational, hierarchical, network, object-oriented, etc. A database can be used for various purposes, such as storing information, performing analysis, supporting applications, etc. ",
+    "image": "https://i.ibb.co/cvx7Z9M/Rectangle-2-1.png",
+    "price": 19000,
+    "credit": 5
+  },
+  {
+    "id": 9,
+    "title": "Problem-Solving Part",
+    "description": "Problem-solving is a very important skill that can help you overcome various challenges and achieve your goals. There are many problem-solving techniques and methods that you can use to identify, analyze, and solve problems effectively.",
+    "image": "https://i.ibb.co/cC39CNq/Rectangle-2-6.png",
+    "price": 23000,
+    "credit": 2
+  }
+]
