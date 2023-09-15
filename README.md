@@ -1,8 +1,34 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Preview
 
-Currently, two official plugins are available:
+![App Screenshot](https://i.ibb.co/hB86yHG/Web-capture-15-9-2023-184256-zealous-soap-surge-sh.jpg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+# Course registration
+
+A simple website to register courses.
+
+
+
+
+
+ 
+
+## Features
+
+- Data come from jason file
+- Courses name are dymically add
+- It is responsive
+- Some conditions are applyed to cart section
+- It make using Ract.js
+
+## Discussion about how I managed the state in your assignment    project
+- Local component state :It means using "useState" hook 
+- Component props : Using certain word & pass them in funcions
+- Routing : It means using props accassing data & access jsx file.
+
+
+ 
+
+
+
