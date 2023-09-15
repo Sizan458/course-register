@@ -1,6 +1,5 @@
 import PropTypes from 'prop-types'
 const Cart = ({selectCourse,price,credit,RemainingCredit}) => {
-    console.log(selectCourse)
     return (
         <div className="mt-6 p-4 border-2 border-green-400">
             <h2 className="    font-bold text-sky-500  ">Credit Hour Remaining {RemainingCredit } hr</h2>
@@ -18,11 +17,11 @@ const Cart = ({selectCourse,price,credit,RemainingCredit}) => {
             </div>
             <hr className="mt-5"/>
             <div>
-                <h2 className="text-xl mt-2 font-bold">Total Credit Hour :{credit}</h2>
+                <h2 className="text-xl mt-2 font-bold">Total Credit Hour : {credit}</h2>
             </div>
             <hr className="mt-3"/>
             <div>
-                <h2 className="mt-4 text-xl font-bold" >Total Price :{price}$</h2>
+                <h2 className="mt-4 text-xl font-bold" >Total Price : {price} USD</h2>
             </div>
         </div>
     );
