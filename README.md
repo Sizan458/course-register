@@ -25,7 +25,7 @@ A simple website to register courses.
 ## Discussion about how I managed the state in your assignment    project
 - Local component state :It means using "useState" hook 
 - Component props : Using certain word & pass them in funcions
-- Routing : It means using props accassing data & access jsx file.
+- Routing : It means using props accassing data , functons & access jsx file.
 
 
  
