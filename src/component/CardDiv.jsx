@@ -39,7 +39,7 @@ const handleCourse=(data) =>{
        })
        const RemainingCredit= 20-Credit
         
-       //condition of credit can't be less than  & equal 20
+       //condition of credit can't be greater 20
        if(Credit>20){
         return swal("Your credit limits is 20 ")
       }else{
